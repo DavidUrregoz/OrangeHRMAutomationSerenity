@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Como Empleado admistrativo","Login exitoso","SUCCESS","2021-10-24T13:02:37.9458317-05:00[America/Bogota]","0.0","9.83"
+"Como Empleado admistrativo","Login fallido por datos invalidos","SUCCESS","2021-10-24T13:02:48.5407473-05:00[America/Bogota]","0.0","7.36"
+"Como Empleado admistrativo","Login fallido falta de campo user","SUCCESS","2021-10-24T13:02:56.9334365-05:00[America/Bogota]","0.0","6.17"
+"Como Empleado admistrativo","Login fallido falta de campo password","SUCCESS","2021-10-24T13:03:04.3555039-05:00[America/Bogota]","0.0","6.7"
+"Como Empleado admistrativo","Login sin datos","SUCCESS","2021-10-24T13:03:12.2402944-05:00[America/Bogota]","0.0","6.27"
+"Como Empleado admistrativo","Modificacion de grado de pago","SUCCESS","2021-10-24T13:34:15.6040612-05:00[America/Bogota]","0.0","18.25"
+"Como Empleado administrativo","busqueda por nombre de empleado.","SUCCESS","2021-10-24T13:10:05.881052-05:00[America/Bogota]","0.0","13.74"

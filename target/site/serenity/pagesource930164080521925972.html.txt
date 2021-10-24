@@ -1,0 +1,1346 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="fontawesome-i2svg-active fontawesome-i2svg-complete"><head>
+
+        <title>OrangeHRM</title>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                
+        <style type="text/css">svg:not(:root).svg-inline--fa{overflow:visible}.svg-inline--fa{display:inline-block;font-size:inherit;height:1em;overflow:visible;vertical-align:-.125em}.svg-inline--fa.fa-lg{vertical-align:-.225em}.svg-inline--fa.fa-w-1{width:.0625em}.svg-inline--fa.fa-w-2{width:.125em}.svg-inline--fa.fa-w-3{width:.1875em}.svg-inline--fa.fa-w-4{width:.25em}.svg-inline--fa.fa-w-5{width:.3125em}.svg-inline--fa.fa-w-6{width:.375em}.svg-inline--fa.fa-w-7{width:.4375em}.svg-inline--fa.fa-w-8{width:.5em}.svg-inline--fa.fa-w-9{width:.5625em}.svg-inline--fa.fa-w-10{width:.625em}.svg-inline--fa.fa-w-11{width:.6875em}.svg-inline--fa.fa-w-12{width:.75em}.svg-inline--fa.fa-w-13{width:.8125em}.svg-inline--fa.fa-w-14{width:.875em}.svg-inline--fa.fa-w-15{width:.9375em}.svg-inline--fa.fa-w-16{width:1em}.svg-inline--fa.fa-w-17{width:1.0625em}.svg-inline--fa.fa-w-18{width:1.125em}.svg-inline--fa.fa-w-19{width:1.1875em}.svg-inline--fa.fa-w-20{width:1.25em}.svg-inline--fa.fa-pull-left{margin-right:.3em;width:auto}.svg-inline--fa.fa-pull-right{margin-left:.3em;width:auto}.svg-inline--fa.fa-border{height:1.5em}.svg-inline--fa.fa-li{width:2em}.svg-inline--fa.fa-fw{width:1.25em}.fa-layers svg.svg-inline--fa{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.fa-layers{display:inline-block;height:1em;position:relative;text-align:center;vertical-align:-.125em;width:1em}.fa-layers svg.svg-inline--fa{-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter,.fa-layers-text{display:inline-block;position:absolute;text-align:center}.fa-layers-text{left:50%;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-transform-origin:center center;transform-origin:center center}.fa-layers-counter{background-color:#ff253a;border-radius:1em;-webkit-box-sizing:border-box;box-sizing:border-box;color:#fff;height:1.5em;line-height:1;max-width:5em;min-width:1.5em;overflow:hidden;padding:.25em;right:0;text-overflow:ellipsis;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-bottom-right{bottom:0;right:0;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom right;transform-origin:bottom right}.fa-layers-bottom-left{bottom:0;left:0;right:auto;top:auto;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:bottom left;transform-origin:bottom left}.fa-layers-top-right{right:0;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top right;transform-origin:top right}.fa-layers-top-left{left:0;right:auto;top:0;-webkit-transform:scale(.25);transform:scale(.25);-webkit-transform-origin:top left;transform-origin:top left}.fa-lg{font-size:1.3333333333em;line-height:.75em;vertical-align:-.0667em}.fa-xs{font-size:.75em}.fa-sm{font-size:.875em}.fa-1x{font-size:1em}.fa-2x{font-size:2em}.fa-3x{font-size:3em}.fa-4x{font-size:4em}.fa-5x{font-size:5em}.fa-6x{font-size:6em}.fa-7x{font-size:7em}.fa-8x{font-size:8em}.fa-9x{font-size:9em}.fa-10x{font-size:10em}.fa-fw{text-align:center;width:1.25em}.fa-ul{list-style-type:none;margin-left:2.5em;padding-left:0}.fa-ul>li{position:relative}.fa-li{left:-2em;position:absolute;text-align:center;width:2em;line-height:inherit}.fa-border{border:solid .08em #eee;border-radius:.1em;padding:.2em .25em .15em}.fa-pull-left{float:left}.fa-pull-right{float:right}.fa.fa-pull-left,.fab.fa-pull-left,.fal.fa-pull-left,.far.fa-pull-left,.fas.fa-pull-left{margin-right:.3em}.fa.fa-pull-right,.fab.fa-pull-right,.fal.fa-pull-right,.far.fa-pull-right,.fas.fa-pull-right{margin-left:.3em}.fa-spin{-webkit-animation:fa-spin 2s infinite linear;animation:fa-spin 2s infinite linear}.fa-pulse{-webkit-animation:fa-spin 1s infinite steps(8);animation:fa-spin 1s infinite steps(8)}@-webkit-keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes fa-spin{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.fa-rotate-90{-webkit-transform:rotate(90deg);transform:rotate(90deg)}.fa-rotate-180{-webkit-transform:rotate(180deg);transform:rotate(180deg)}.fa-rotate-270{-webkit-transform:rotate(270deg);transform:rotate(270deg)}.fa-flip-horizontal{-webkit-transform:scale(-1,1);transform:scale(-1,1)}.fa-flip-vertical{-webkit-transform:scale(1,-1);transform:scale(1,-1)}.fa-flip-both,.fa-flip-horizontal.fa-flip-vertical{-webkit-transform:scale(-1,-1);transform:scale(-1,-1)}:root .fa-flip-both,:root .fa-flip-horizontal,:root .fa-flip-vertical,:root .fa-rotate-180,:root .fa-rotate-270,:root .fa-rotate-90{-webkit-filter:none;filter:none}.fa-stack{display:inline-block;height:2em;position:relative;width:2.5em}.fa-stack-1x,.fa-stack-2x{bottom:0;left:0;margin:auto;position:absolute;right:0;top:0}.svg-inline--fa.fa-stack-1x{height:1em;width:1.25em}.svg-inline--fa.fa-stack-2x{height:2em;width:2.5em}.fa-inverse{color:#fff}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.sr-only-focusable:active,.sr-only-focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}.svg-inline--fa .fa-primary{fill:var(--fa-primary-color,currentColor);opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa .fa-secondary{fill:var(--fa-secondary-color,currentColor);opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-primary{opacity:.4;opacity:var(--fa-secondary-opacity,.4)}.svg-inline--fa.fa-swap-opacity .fa-secondary{opacity:1;opacity:var(--fa-primary-opacity,1)}.svg-inline--fa mask .fa-primary,.svg-inline--fa mask .fa-secondary{fill:#000}.fad.fa-inverse{color:#fff}</style><link rel="shortcut icon" href="/webres_6051af48107ce6.31500353/themes/default/images/favicon.ico">
+        
+        <!-- Library CSS files -->
+        <link href="/webres_6051af48107ce6.31500353/themes/default/css/reset.css" rel="stylesheet" type="text/css">
+        <link href="/webres_6051af48107ce6.31500353/themes/default/css/tipTip.css" rel="stylesheet" type="text/css">
+        <link href="/webres_6051af48107ce6.31500353/themes/default/css/jquery/jquery-ui-1.8.21.custom.css" rel="stylesheet" type="text/css">
+        <link href="/webres_6051af48107ce6.31500353/themes/default/css/jquery/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+        
+        <!-- Custom CSS files -->
+        <link href="/webres_6051af48107ce6.31500353/themes/default/css/main.css" rel="stylesheet" type="text/css">
+        
+        <script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/validate/jquery.validate.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/orangehrm.autocomplete.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/jquery.ui.datepicker.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/jquery.form.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/jquery.tipTip.minified.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/bootstrap-modal.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/jquery/jquery.clickoutside.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/fontawesome-5.13.0/js/fontawesome.min.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/fontawesome-5.13.0/js/solid.min.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/fontawesome-5.13.0/js/regular.min.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/orangehrm.validate.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/archive.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/orangehrm.marketplace.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/js/orangehrm.helper.js"></script>
+   
+        
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->        
+
+
+
+    <script type="text/javascript" src="/webres_6051af48107ce6.31500353/orangehrmAdminPlugin/js/payGradeSuccess.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/js/viewNotificationComponent.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/js/buzzCommon.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/js/buzzNew.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/js/viewPostComponent.js"></script>
+<script type="text/javascript" src="/webres_6051af48107ce6.31500353/orangehrmCorePlugin/js/mainMenuComponent.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/css/viewNotificationComponent.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/css/viewShareSuccess.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/css/viewBuzzSuccess.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/css/getSharedEmployeeListSuccess.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/css/viewPostComponent.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/css/photoTiling.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/css/messageBoxStyles.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmHelpPlugin/css/viewHelpComponent.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmBeaconPlugin/css/_beaconAbout.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/webres_6051af48107ce6.31500353/orangehrmCorePlugin/css/mainMenuComponent.css">
+</head>
+    <body>
+
+        <div id="wrapper">
+
+            <div id="branding">
+                <a href="http://www.orangehrm.com/" target="_blank"><img src="/webres_6051af48107ce6.31500353/themes/default/images/logo.png" width="283" height="56" alt="OrangeHRM"></a>
+                <a href="#" id="welcome" class="panelTrigger">Welcome Paul</a>
+                
+<!--Notification icon-->
+<div class="notification">
+    <span id="notification" class="fa-lg fa-layers fa-fw">
+        <svg class="svg-inline--fa fa-bell fa-w-14 notification-icon" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bell" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224 512c35.32 0 63.97-28.65 63.97-64H160.03c0 35.35 28.65 64 63.97 64zm215.39-149.71c-19.32-20.76-55.47-51.99-55.47-154.29 0-77.7-54.48-139.9-127.94-155.16V32c0-17.67-14.32-32-31.98-32s-31.98 14.33-31.98 32v20.84C118.56 68.1 64.08 130.3 64.08 208c0 102.3-36.15 133.53-55.47 154.29-6 6.45-8.66 14.16-8.61 21.71.11 16.4 12.98 32 32.1 32h383.8c19.12 0 32-15.6 32.1-32 .05-7.55-2.61-15.27-8.61-21.71z"></path></svg><!-- <i class="fas fa-bell notification-icon"></i> -->
+        <span id="notificationBadge" class="fa-layers-counter notification-badge hide-notification-badge"></span>
+    </span>
+</div>
+
+<!-- Modal -->
+<div class="modal hide" id="notificationModal" role="dialog" data-backdrop="false">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="clear-notifications">
+                                    </div>
+                <div id="notificationsMessages" class="notifications-message empty-notifications-message">No new notifications</div>
+                <div class="">
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <form id="actionValidateForm" method="POST" action="" enctype="multipart/form-data">
+            <fieldset>
+                <ol>
+                    <input type="hidden" name="actionValidatingForm[_csrf_token]" value="a41b5dcb8c036232a2c13141a77f26e4" id="actionValidatingForm__csrf_token">                </ol>
+            </fieldset>
+
+        </form>
+
+        <form id="likedOrSharedEmployeeForm" method="POST" action="">
+            <input type="hidden" name="likedOrSharedEmployeeForm[id]" id="likedOrSharedEmployeeForm_id">
+<input type="hidden" name="likedOrSharedEmployeeForm[type]" id="likedOrSharedEmployeeForm_type">
+<input type="hidden" name="likedOrSharedEmployeeForm[event]" id="likedOrSharedEmployeeForm_event">
+<input type="hidden" name="likedOrSharedEmployeeForm[_csrf_token]" value="d7f4e8fccbb1e257d027bc5729fb57ce" id="likedOrSharedEmployeeForm__csrf_token">        </form>
+
+        <form id="deleteOrEditShareForm" method="POST" action="">
+            <input type="hidden" name="deleteOrEditShareForm[shareId]" id="deleteOrEditShareForm_shareId">
+<input type="hidden" name="deleteOrEditShareForm[textShare]" id="deleteOrEditShareForm_textShare">
+<input type="hidden" name="deleteOrEditShareForm[_csrf_token]" value="eb6f98724521984fb3d5bc147a7e6163" id="deleteOrEditShareForm__csrf_token">        </form>
+    </div>
+</div>
+
+<!-- pop up-->
+<div class="modal hide notification-view-more-modal" id="notificationShareViewMoreModal">
+    <div class="modal-body notification-view-more-modal-body">
+        <div class="notification-hide-modal-popup">
+            <img class="notification-hide-modal-popup" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/images/close.png" height="20" width="20"></div>
+
+        <div id="notificationShareView">
+            <div class="shareView"></div>
+        </div>
+
+    </div>
+</div>
+<div class="modal hide" id="successDataModal">
+
+    <div class="modal-body">
+        <div class="mb-heading ac_over">
+            Success!        </div>
+        <div id="successBodyEdit">
+            Successfully Saved        </div>
+        <div id="successBodyShare">
+            Successfully Shared        </div>
+        <div id="successBodyDelete">
+            Successfully Deleted        </div>
+
+    </div>
+</div>
+
+<!--start loading window popup window-->
+<div class="modal hide" id="loadingDataModal">
+    <div class="modal-body loadingDataModal-body">
+        <div id="loadingModalBody">
+            <img id="img-spinner-loading" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/images/vload.gif" height="12">
+        </div>
+    </div>
+</div>
+<!--end loading window pop up window-->
+
+<!-- start like window popup window-->
+<div class="modal hide modal-on-preview" id="postsharehide">
+    <div id="modalHeader">
+        People who shared this post    </div>
+    <div class="modal-body originalPostModal-body">
+        <div class="hideModalPopUp" id="postsharehide">
+            <img class="hideModalPopUp" id="postsharehide" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/images/close.png" height="20" width="20"></div>
+        <div class="" id="postsharehidebody"></div>
+
+    </div>
+</div>
+<!-- end like window pop up window-->
+
+<!-- start like window popup window-->
+<div class="modal hide modal-on-preview" id="postlikehide">
+    <div id="modalHeader">
+        People who like this post    </div>
+    <div class="modal-body originalPostModal-body">
+        <div class="hideModalPopUp" id="postlikehide">
+            <img class="hideModalPopUp" id="postlikehide" src="/webres_6051af48107ce6.31500353/orangehrmBuzzPlugin/images/close.png" height="20" width="20"></div>
+        <div class="" id="postlikehidebody"></div>
+
+    </div>
+</div>
+<!-- end like window pop up window-->
+
+<script>
+    var getAccessUrl = '/index.php/buzz/getLogedToBuzz';
+    var loginpageURL = '/index.php/auth/login';
+
+    // buzzCommon.js
+    var viewLikedEmployees = '/index.php/buzz/viewLikedEmployees';
+    var addBuzzCommentURL = '/index.php/buzz/addNewComment';
+    var shareShareURL = '/index.php/buzz/shareAPost';
+    var getLikedEmployeeListURL = '/index.php/buzz/getLikedEmployeeList';
+
+    // buzzNew.js
+    var shareLikeURL = '/index.php/buzz/likeOnShare';
+    var commentLikeURL = '/index.php/buzz/likeOnComment';
+    var getSharedEmployeeListURL = '/index.php/buzz/getSharedEmployeeList';
+
+    // viewNotificationComponent.js
+    var viewMoreShare = '/index.php/buzz/viewShare';
+    var buzzURL = "/index.php/buzz/viewBuzz";
+    var ClearNotificationURL = "/index.php/buzz/clearNotificationAjax";
+    var ClickOnNotificationIconURL = "/index.php/buzz/clickOnNotificationIconAjax";
+    var lang_NoNewNotifications = 'No new notifications';
+    var lang_NotificationClearFailed = 'Failed to clear notifications';
+</script>
+                <!--Help icon-->
+<a class="help-icon-div" href="/index.php/help/help?label=admin_payGrade" target="_blank">
+    <span class="fa-lg fa-layers fa-fw">
+        <svg class="svg-inline--fa fa-question-circle fa-w-16 help-icon" aria-hidden="true" focusable="false" data-prefix="far" data-icon="question-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M256 8C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm0 448c-110.532 0-200-89.431-200-200 0-110.495 89.472-200 200-200 110.491 0 200 89.471 200 200 0 110.53-89.431 200-200 200zm107.244-255.2c0 67.052-72.421 68.084-72.421 92.863V300c0 6.627-5.373 12-12 12h-45.647c-6.627 0-12-5.373-12-12v-8.659c0-35.745 27.1-50.034 47.579-61.516 17.561-9.845 28.324-16.541 28.324-29.579 0-17.246-21.999-28.693-39.784-28.693-23.189 0-33.894 10.977-48.942 29.969-4.057 5.12-11.46 6.071-16.666 2.124l-27.824-21.098c-5.107-3.872-6.251-11.066-2.644-16.363C184.846 131.491 214.94 112 261.794 112c49.071 0 101.45 38.304 101.45 88.8zM298 368c0 23.159-18.841 42-42 42s-42-18.841-42-42 18.841-42 42-42 42 18.841 42 42z"></path></svg><!-- <i class="far fa-question-circle help-icon"></i> -->
+    </span>
+</a>
+                                    <div id="MP_btn">
+                        <input id="Subscriber_link" type="button" class="button" value="Subscribe">
+                    </div>
+                    <div id="mp_btn_inner">
+                        <input id="MP_link" type="button" class="button" value="Marketplace">
+                    </div>
+                                <script>
+                    var marketplaceURL = "/index.php/marketPlace/ohrmAddons";
+                    var SubscriberURL = "/index.php/pim/subscriber";
+                </script>
+                <div id="welcome-menu" class="panelContainer">
+                    <ul>
+                        <li>
+    <a href="#" data-dismiss="modal" id="aboutDisplayLink">About</a>
+
+    <div class="modal hide" id="displayAbout">
+        <div class="modal-header">
+            <a class="close" data-dismiss="modal">×</a>
+            <h3>About</h3>
+        </div>
+        <form name="frmSelectEmployees" id="frmSelectEmployees" method="post" action="/index.php/communication/beaconAboutAjax" enctype="multipart/form-data">
+            <div class="modal-body">
+                <div id="companyInfo">
+                    <ul>
+                        <li>
+                            <p>Company Name: OrangeHRM</p>
+                        </li>
+                        <li>
+                            <p>Version: Orangehrm OS 4.8</p>
+                        </li>
+                        <li>
+                            <p>Active Employees: 64</p>
+                        </li>
+                        <li>
+                            <p>Employees Terminated: 0</p>
+                        </li>
+                    </ul>
+                </div>
+                
+                        
+    </div></form>
+
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        
+               
+        jQuery('#aboutDisplayLink').click(function(event) {
+            event.stopImmediatePropagation();
+            jQuery('#messageToDisplayAbout').css(
+                    'display', 'none');
+            jQuery('#displayAbout').modal();
+            jQuery('#help-menu.panelContainer').attr('style', 'display:block');
+            
+            var test = jQuery('.panelContainer');
+            jQuery('#help-menu.panelContainer').css(
+                    'display', 'block');
+             
+        });
+
+        jQuery('#heartbeatSubmitBtn').click(function(event) {
+            event.stopImmediatePropagation();
+            jQuery(this).closest('form').ajaxSubmit(function() {
+                jQuery('#messageToDisplayAbout').html('Saved');
+
+                if (jQuery('#register_registration').is(':checked')) {
+                    jQuery('#registration-section').css(
+                            'display', 'none');
+                }
+                jQuery('#displayAbout').modal('hide');
+                jQuery('#messageToDisplayAbout').css(
+                        'display', 'block');
+                jQuery('#welcome-menu').css('display','none');
+            });
+        });
+
+        jQuery('#displayAbout').click(function(event) {
+            event.stopImmediatePropagation();
+        });
+        
+        jQuery('#heartbeatCancelBtn').click(function(event) {
+            event.stopImmediatePropagation();
+             jQuery('#welcome-menu').css('display','none');
+                 jQuery('#displayAbout').modal('hide');
+        });
+
+    })
+</script>
+
+</div></li>
+                        <li><a href="/index.php/support/index">Support</a></li>
+                     <!--   <li><a href="/index.php/admin/changeUserPassword">Change Password</a></li> -->
+                        <li><a href="/index.php/auth/logout">Logout</a></li>
+                    </ul>
+                </div>
+                                
+
+<style>
+    svg path,
+    svg rect{
+        fill: #FF6700;
+    }
+    .svgcl{
+        position: relative;
+        left: -35px;
+        top: -31px;
+    }
+    </style>
+
+<script language="javascript">
+    var inputDatePattern = 'Y-m-d' ;
+    var separatorString = 'to';
+    $( document ).ready(function() {
+
+        $("#loader-1").hide();
+        empId = location.href[location.href.length-1];
+        dates = $('#startDates').find(":selected").text().split(" "+separatorString+" ");
+        startDate_timesheet = dates[0]+" 00:00:00";
+        endDate_timesheet   = dates[1]+" 00:00:00";
+
+        clientId  =     "";
+        clientSecret  = "";
+        clientUrl     = "";
+        successUrl  = "";
+        ajaxURL = "/index.php/buzz/viewBuzz";
+        var timeSheetStatus = $('#timesheet_status').find('h2').text();
+        if(timeSheetStatus == 'Status: Approved'){
+
+            $('.syncToggl').hide();
+        } else {
+            $('.syncToggl').show();
+        }
+
+    });
+
+        
+    function ajaxSyc() {
+        $("#loader-1").show();
+
+        $.ajax({
+                type: "POST",
+                url: ajaxURL,
+                data: {
+                    'employee_Id':employeeId,
+                    'startTime': startDate_timesheet,
+                    'endTime': endDate_timesheet,
+                    'timeFormat': inputDatePattern,
+                    'timeZone': 'GMT'+formatTimeZone()
+                },
+                contentType: "application/x-www-form-urlencoded",
+
+                success: function (msg, status, jqXHR) {
+
+                    $("#loader-1").hide();
+                    msg = JSON.parse(msg);
+                    msgCode = msg.statusCode;
+                    if (msgCode != null) {
+                        if (msgCode == 101) {
+                            displayMessages('error',msg.description );
+                        } else if (msgCode == 102) {
+
+                            displayMessages('success', msg.description);
+                            setTimeout(function () {
+                                location.reload();
+                            }, 2000);
+
+                        }
+                    } else {
+                        showErrorMsg();
+                    }
+
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    $("#loader-1").hide();
+                    console.log(errorThrown);
+                    showErrorMsg();
+                }
+            });
+    }
+    
+    function startSyc() {
+        $("#loader-1").show();
+
+    $.ajax({
+
+        type: "POST",
+        url: clientUrl,
+
+
+        data: {
+            'grant_type': 'client_credentials',
+            'client_id': clientId,
+            'client_secret': clientSecret
+        },
+        contentType: "application/x-www-form-urlencoded",
+
+
+        success: function (msg, status, jqXHR) {
+
+            try {
+
+                msg = $.parseJSON(jqXHR.responseText);
+
+            } catch (err) {
+                console.log(err);
+                showErrorMsg();
+            }
+
+            $.ajax({
+                type: "POST",
+                url: successUrl,
+                beforeSend: function (xhr) {
+
+                    xhr.setRequestHeader("Authorization", "Bearer " + msg.access_token);
+                },
+
+                data: {
+
+                    'employee_Id':employeeId,
+                    'startTime': startDate_timesheet,
+                    'endTime': endDate_timesheet,
+                    'timeFormat': inputDatePattern,
+                    'timeZone': 'GMT'+formatTimeZone()
+                },
+                contentType: "application/x-www-form-urlencoded",
+
+                success: function (msg, status, jqXHR) {
+
+                    $("#loader-1").hide();
+                    msgCode = msg.statusCode;
+                    if (msgCode != null) {
+                        if (msgCode == 101) {
+                            displayMessages('error',msg.description );
+                        } else if (msgCode == 102) {
+
+                            displayMessages('success', msg.description);
+                            setTimeout(function () {
+                                location.reload();
+                            }, 2000);
+
+                        }
+                    } else {
+                        showErrorMsg();
+                    }
+
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    $("#loader-1").hide();
+                    console.log(errorThrown);
+                    showErrorMsg();
+                }
+            });
+
+        },
+        error: function (XMLHttpRequest, textStatus, errorThrown) {
+            $("#loader-1").hide();
+            console.log(errorThrown);
+            showErrorMsg();
+        }
+
+
+    });
+
+    }
+
+    function showErrorMsg(){
+        displayMessages('error','Unable To Sync With Toggl' );
+        setTimeout(function () {
+            $('#msgDiv').remove();
+        }, 3000);
+
+    }
+
+</script>
+
+<div>
+    <div class="toggl">
+    
+        <div class="loader loader--style2" title="1">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="loader-1" class="svgcl" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 50 50" style="display: none;" xml:space="preserve">
+  <path fill="#000" d="M25.251,6.461c-10.318,0-18.683,8.365-18.683,18.683h4.068c0-8.071,6.543-14.615,14.615-14.615V6.461z">
+      <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="0 25 25" to="360 25 25" dur="0.6s" repeatCount="indefinite"></animateTransform>
+  </path>
+  </svg>
+        </div>
+    </div>
+
+    <div class="modal hide" id="togglConfirm" style="display: none;">
+        <div class="modal-header">
+            <a class="close" data-dismiss="modal">×</a>
+            <h3>Confirm Toggl Sync</h3>
+        </div>
+        <div class="modal-body">
+            <p>Any existing timesheet entry will be overwritten if record for same date is matched. Click ok to continue.</p>
+        </div>
+        <div class="modal-footer">
+                            <input id="" onclick="ajaxSyc()" class="" data-dismiss="modal" value="Ok" type="button">
+                        <input id="addCancel" class="reset" data-dismiss="modal" value="Cancel" type="button">
+        </div>
+    </div>
+
+</div>
+
+
+
+<!--                <a href="#" id="help" class="panelTrigger">Help & Training</a>
+                <div id="help-menu" class="panelContainer">
+                    <ul>
+
+                        <li><a href="http://www.orangehrm.com/support-plans.php?utm_source=application_support&amp;utm_medium=app_url&amp;utm_campaign=orangeapp" target="_blank">Support</a></li>
+                        <li><a href="http://www.orangehrm.com/training.php?utm_source=application_traning&amp;utm_medium=app_url&amp;utm_campaign=orangeapp" target="_blank">Training</a></li>
+                        <li><a href="http://www.orangehrm.com/addon-plans.shtml?utm_source=application_addons&amp;utm_medium=app_url&amp;utm_campaign=orangeapp" target="_blank">Add-Ons</a></li>
+                        <li><a href="http://www.orangehrm.com/customizations.php?utm_source=application_cus&amp;utm_medium=app_url&amp;utm_campaign=orangeapp" target="_blank">Customizations</a></li>
+                        <li><a href="http://forum.orangehrm.com/" target="_blank">Forum</a></li>
+                        <li><a href="http://blog.orangehrm.com/" target="_blank">Blog</a></li>
+                        <li><a href="http://sourceforge.net/apps/mantisbt/orangehrm/view_all_bug_page.php" target="_blank">Bug Tracker</a></li>
+                    </ul>
+                </div>-->
+            </div> <!-- branding -->
+
+            
+<div id="mainMenu" class="menu">
+    
+    <ul id="mainMenuFirstLevelUnorderedList" class="main-menu-first-level-unordered-list main-menu-first-level-unordered-list-width">
+        
+        
+            <li class="current main-menu-first-level-list-item"><a href="/index.php/admin/viewAdminModule" id="menu_admin_viewAdminModule" class="firstLevelMenu"><b>Admin</b></a>
+
+            <ul>
+                        
+                    
+                    
+                    <li><a href="#" id="menu_admin_UserManagement" class="arrow">User Management</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/admin/viewSystemUsers" id="menu_admin_viewSystemUsers">Users</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li class="selected"><a href="#" id="menu_admin_Job" class="arrow">Job</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/admin/viewJobTitleList" id="menu_admin_viewJobTitleList">Job Titles</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewPayGrades" id="menu_admin_viewPayGrades">Pay Grades</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/employmentStatus" id="menu_admin_employmentStatus">Employment Status</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/jobCategory" id="menu_admin_jobCategory">Job Categories</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/workShift" id="menu_admin_workShift">Work Shifts</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_admin_Organization" class="arrow">Organization</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/admin/viewOrganizationGeneralInformation" id="menu_admin_viewOrganizationGeneralInformation">General Information</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewLocations" id="menu_admin_viewLocations">Locations</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewCompanyStructure" id="menu_admin_viewCompanyStructure">Structure</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_admin_Qualifications" class="arrow">Qualifications</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/admin/viewSkills" id="menu_admin_viewSkills">Skills</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewEducation" id="menu_admin_viewEducation">Education</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewLicenses" id="menu_admin_viewLicenses">Licenses</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewLanguages" id="menu_admin_viewLanguages">Languages</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/membership" id="menu_admin_membership">Memberships</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/admin/nationality" id="menu_admin_nationality">Nationalities</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_admin_Configuration" class="arrow">Configuration</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/admin/listMailConfiguration" id="menu_admin_listMailConfiguration">Email Configuration</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewEmailNotification" id="menu_admin_viewEmailNotification">Email Subscriptions</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/localization" id="menu_admin_localization">Localization</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/languagePackage" id="menu_admin_languagePackage">Language Packages</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewModules" id="menu_admin_viewModules">Modules</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/openIdProvider" id="menu_admin_openIdProvider">Social Media Authentication</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/registerOAuthClient" id="menu_admin_registerOAuthClient">Register OAuth Client</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                                                
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/pim/viewPimModule" id="menu_pim_viewPimModule" class="firstLevelMenu"><b>PIM</b></a>
+
+            <ul>
+                        
+                    
+                    
+                    <li><a href="#" id="menu_pim_Configuration" class="arrow">Configuration</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/pim/configurePim" id="menu_pim_configurePim">Optional Fields</a></li>
+
+                                
+                                    <li><a href="/index.php/pim/listCustomFields" id="menu_pim_listCustomFields">Custom Fields</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/pimCsvImport" id="menu_admin_pimCsvImport">Data Import</a></li>
+
+                                
+                                    <li><a href="/index.php/pim/viewReportingMethods" id="menu_pim_viewReportingMethods">Reporting Methods</a></li>
+
+                                
+                                    <li><a href="/index.php/pim/viewTerminationReasons" id="menu_pim_viewTerminationReasons">Termination Reasons</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/pim/viewEmployeeList/reset/1" id="menu_pim_viewEmployeeList">Employee List</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/pim/addEmployee" id="menu_pim_addEmployee">Add Employee</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/core/viewDefinedPredefinedReports/reportGroup/3/reportType/PIM_DEFINED" id="menu_core_viewDefinedPredefinedReports">Reports</a>
+
+                        
+                        </li>   
+                    
+                                                
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/leave/viewLeaveModule" id="menu_leave_viewLeaveModule" class="firstLevelMenu"><b>Leave</b></a>
+
+            <ul>
+                        
+                    
+                    
+                    <li><a href="/index.php/leave/applyLeave" id="menu_leave_applyLeave">Apply</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/leave/viewMyLeaveList/reset/1" id="menu_leave_viewMyLeaveList">My Leave</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_leave_Entitlements" class="arrow">Entitlements</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/leave/addLeaveEntitlement" id="menu_leave_addLeaveEntitlement">Add Entitlements</a></li>
+
+                                
+                                    <li><a href="/index.php/leave/viewLeaveEntitlements/reset/1" id="menu_leave_viewLeaveEntitlements">Employee Entitlements</a></li>
+
+                                
+                                    <li><a href="/index.php/leave/viewMyLeaveEntitlements/reset/1" id="menu_leave_viewMyLeaveEntitlements">My Entitlements</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_leave_Reports" class="arrow">Reports</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/leave/viewLeaveBalanceReport" id="menu_leave_viewLeaveBalanceReport">Leave Entitlements and Usage Report</a></li>
+
+                                
+                                    <li><a href="/index.php/leave/viewMyLeaveBalanceReport" id="menu_leave_viewMyLeaveBalanceReport">My Leave Entitlements and Usage Report</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_leave_Configure" class="arrow">Configure</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/leave/defineLeavePeriod" id="menu_leave_defineLeavePeriod">Leave Period</a></li>
+
+                                
+                                    <li><a href="/index.php/leave/leaveTypeList" id="menu_leave_leaveTypeList">Leave Types</a></li>
+
+                                
+                                    <li><a href="/index.php/leave/defineWorkWeek" id="menu_leave_defineWorkWeek">Work Week</a></li>
+
+                                
+                                    <li><a href="/index.php/leave/viewHolidayList" id="menu_leave_viewHolidayList">Holidays</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/leave/viewLeaveList/reset/1" id="menu_leave_viewLeaveList">Leave List</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/leave/assignLeave" id="menu_leave_assignLeave">Assign Leave</a>
+
+                        
+                        </li>   
+                    
+                                                
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/time/viewTimeModule" id="menu_time_viewTimeModule" class="firstLevelMenu"><b>Time</b></a>
+
+            <ul>
+                        
+                    
+                    
+                    <li><a href="#" id="menu_time_Timesheets" class="arrow">Timesheets</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/time/viewMyTimesheet" id="menu_time_viewMyTimesheet">My Timesheets</a></li>
+
+                                
+                                    <li><a href="/index.php/time/viewEmployeeTimesheet" id="menu_time_viewEmployeeTimesheet">Employee Timesheets</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_attendance_Attendance" class="arrow">Attendance</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/attendance/viewMyAttendanceRecord" id="menu_attendance_viewMyAttendanceRecord">My Records</a></li>
+
+                                
+                                    <li><a href="/index.php/attendance/punchIn" id="menu_attendance_punchIn">Punch In/Out</a></li>
+
+                                
+                                    <li><a href="/index.php/attendance/viewAttendanceRecord" id="menu_attendance_viewAttendanceRecord">Employee Records</a></li>
+
+                                
+                                    <li><a href="/index.php/attendance/configure" id="menu_attendance_configure">Configuration</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_time_Reports" class="arrow">Reports</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/time/displayProjectReportCriteria?reportId=1" id="menu_time_displayProjectReportCriteria">Project Reports</a></li>
+
+                                
+                                    <li><a href="/index.php/time/displayEmployeeReportCriteria?reportId=2" id="menu_time_displayEmployeeReportCriteria">Employee Reports</a></li>
+
+                                
+                                    <li><a href="/index.php/time/displayAttendanceSummaryReportCriteria?reportId=4" id="menu_time_displayAttendanceSummaryReportCriteria">Attendance Summary</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_admin_ProjectInfo" class="arrow">Project Info</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/admin/viewCustomers" id="menu_admin_viewCustomers">Customers</a></li>
+
+                                
+                                    <li><a href="/index.php/admin/viewProjects" id="menu_admin_viewProjects">Projects</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                                                
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/recruitment/viewRecruitmentModule" id="menu_recruitment_viewRecruitmentModule" class="firstLevelMenu"><b>Recruitment</b></a>
+
+            <ul>
+                        
+                    
+                    
+                    <li><a href="/index.php/recruitment/viewCandidates" id="menu_recruitment_viewCandidates">Candidates</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/recruitment/viewJobVacancy" id="menu_recruitment_viewJobVacancy">Vacancies</a>
+
+                        
+                        </li>   
+                    
+                                                
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/pim/viewMyDetails" id="menu_pim_viewMyDetails" class="firstLevelMenu"><b>My Info</b></a>
+
+            <ul>
+                                    
+                        <li></li>
+                            
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="#" id="menu__Performance" class="firstLevelMenu"><b>Performance</b></a>
+
+            <ul>
+                        
+                    
+                    
+                    <li><a href="#" id="menu_performance_Configure" class="arrow">Configure</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/performance/searchKpi" id="menu_performance_searchKpi">KPIs</a></li>
+
+                                
+                                    <li><a href="/index.php/performance/addPerformanceTracker" id="menu_performance_addPerformanceTracker">Trackers</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="#" id="menu_performance_ManageReviews" class="arrow">Manage Reviews</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/performance/searchPerformancReview" id="menu_performance_searchPerformancReview">Manage Reviews</a></li>
+
+                                
+                                    <li><a href="/index.php/performance/myPerformanceReview" id="menu_performance_myPerformanceReview">My Reviews</a></li>
+
+                                
+                                    <li><a href="/index.php/performance/searchEvaluatePerformancReview" id="menu_performance_searchEvaluatePerformancReview">Review List</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/performance/viewMyPerformanceTrackerList" id="menu_performance_viewMyPerformanceTrackerList">My Trackers</a>
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/performance/viewEmployeePerformanceTrackerList" id="menu_performance_viewEmployeePerformanceTrackerList">Employee Trackers</a>
+
+                        
+                        </li>   
+                    
+                                                
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/dashboard" id="menu_dashboard_index" class="firstLevelMenu"><b>Dashboard</b></a>
+
+            <ul>
+                                    
+                        <li></li>
+                            
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/directory/viewDirectory/reset/1" id="menu_directory_viewDirectory" class="firstLevelMenu"><b>Directory</b></a>
+
+            <ul>
+                                    
+                        <li></li>
+                            
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/maintenance/purgeEmployee" id="menu_maintenance_purgeEmployee" class="firstLevelMenu"><b>Maintenance</b></a>
+
+            <ul>
+                        
+                    
+                    
+                    <li><a href="#" id="menu_maintenance_PurgeRecords" class="arrow">Purge Records</a>
+
+                        
+                            <ul>
+
+                                
+                                    <li><a href="/index.php/maintenance/purgeEmployee" id="menu_maintenance_purgeEmployee">Employee Records</a></li>
+
+                                
+                                    <li><a href="/index.php/maintenance/purgeCandidateData" id="menu_maintenance_purgeCandidateData">Candidate Records</a></li>
+
+                                
+                            </ul> <!-- third level -->
+
+                        
+                        </li>   
+                    
+                    
+                    <li><a href="/index.php/maintenance/accessEmployeeData" id="menu_maintenance_accessEmployeeData">Access Records</a>
+
+                        
+                        </li>   
+                    
+                                                
+                </ul> <!-- second level -->                        
+            </li>
+            
+        
+            <li class="main-menu-first-level-list-item"><a href="/index.php/buzz/viewBuzz" id="menu_buzz_viewBuzz" class="firstLevelMenu"><b>Buzz</b></a>
+
+            <ul>
+                                    
+                        <li></li>
+                            
+                </ul> <!-- second level -->                        
+            </li>
+            
+                    
+    </ul> <!-- first level -->
+    
+</div> <!-- menu -->
+            <div id="content">
+
+                  
+
+
+<div id="payGrade" class="box">
+    
+    <div class="head">
+        <h1 id="payGradeHeading">Edit Pay Grade</h1>
+    </div>
+    
+    <div class="inner">
+        
+        
+
+
+
+        <form name="frmPayGrade" id="frmPayGrade" method="post" action="/index.php/admin/payGrade" novalidate="novalidate">
+            
+            <fieldset>
+
+                <ol>
+                    
+                    <li><label for="payGrade_name">Name <em>*</em></label>
+  <input type="text" name="payGrade[name]" value="Grade 1" id="payGrade_name" disabled="disabled">
+<input type="hidden" name="payGrade[payGradeId]" value="1" id="payGrade_payGradeId">
+<input type="hidden" name="payGrade[_csrf_token]" value="c12c23633301b0ae6dc5b96c42662410" id="payGrade__csrf_token"></li>
+                    
+                    <li class="required">
+                        <em>*</em> Required field                    </li>
+                    
+                </ol>
+
+                <p>
+                                        <input type="button" class="addbutton" name="btnSave" id="btnSave" value="Edit">
+                                        <input type="button" class="reset" name="btnCancel" id="btnCancel" value="Cancel">
+                </p>
+                
+            </fieldset>
+
+        </form>
+        
+    </div>
+
+</div>
+
+<div id="addEditCurrency" class="box" style="display: none;">
+    
+    <div class="head">
+        <h1 id="currencyHeading">Assigned Currencies</h1>
+    </div>
+    
+    <div class="inner">
+        
+        <form name="frmCurrency" id="frmCurrency" method="post" action="/index.php/admin/savePayGradeCurrency/payGradeId/1" novalidate="novalidate">
+            <input type="hidden" name="payGradeCurrency[currencyId]" id="payGradeCurrency_currencyId"><input type="hidden" name="payGradeCurrency[payGradeId]" id="payGradeCurrency_payGradeId" value="1"><input type="hidden" name="payGradeCurrency[_csrf_token]" value="1039253bfa97721a6658af5b76dd7b19" id="payGradeCurrency__csrf_token">
+            <fieldset>
+                
+                <ol id="addPaneCurrency" style="display: none">
+                    
+                    <li>
+                        <label for="payGradeCurrency_currencyName">Currency <em>*</em></label>                        <input type="text" name="payGradeCurrency[currencyName]" class="formInput ac_input" maxlength="52" id="payGradeCurrency_currencyName" autocomplete="off">                        <span class="errorHolder curName"></span>
+                    </li>
+                    
+                    <li>
+                        <label for="payGradeCurrency_minSalary">Minimum Salary</label>                        <input type="text" name="payGradeCurrency[minSalary]" class="formInput" maxlength="52" id="payGradeCurrency_minSalary">                    </li>
+                    
+                    <li>
+                        <label for="payGradeCurrency_maxSalary">Maximum Salary</label>                        <input type="text" name="payGradeCurrency[maxSalary]" class="formInput" maxlength="52" id="payGradeCurrency_maxSalary">                    </li>
+                    
+                    <li class="required">
+                        <em>*</em> Required field                    </li>
+                    
+                </ol>    
+                
+                <p id="actionButtons" style="display: none">
+                                        <input type="button" class="addbutton" name="btnSaveCurrency" id="btnSaveCurrency" value="Save">
+                                        <input type="button" class="reset" id="cancelButton" value="Cancel">
+                </p>
+                
+            </fieldset>
+
+        </form>
+        
+    </div>
+    
+</div>
+
+<a id="Currencies"></a>
+<div id="currency" class="box miniList">
+    
+    <div class="head">
+        <h1 id="currencyListHeading">Assigned Currencies</h1>
+    </div>
+    
+    <div class="inner"> 
+        
+        
+<div class="message success fadable">
+Successfully Saved   
+    <a href="#" class="messageCloseButton">Close</a>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    $("div.fadable").delay(2000)
+        .fadeOut("slow", function () {
+            $("div.fadable").remove();
+        }); 
+//<![CDATA[
+</script>
+
+
+        
+        <form name="frmDelCurrencies" id="frmDelCurrencies" method="post" action="/index.php/admin/deletePayGradeCurrency/payGradeId/1">
+            
+            <input type="hidden" name="deleteCurrencies[_csrf_token]" value="c98b7765c1313cfba3c16ca85d1c9fd4" id="deleteCurrencies__csrf_token">            
+            <p id="addDeleteBtnDiv">
+                                <input type="button" class="addbutton" id="btnAddCurrency" value="Add">
+                                
+                <input type="button" class="delete" id="btnDeleteCurrency" value="Delete" disabled="disabled">
+                    
+                            </p>
+            
+            <table class="table hover" id="tblCurrencies">
+                <thead>
+                    <tr>
+                                                <th class="check" style="width:2%"><input type="checkbox" id="currencyCheckAll" class="checkboxCurr"></th>
+                                                <th style="width:40%">Currency</th>
+                        <th style="width:34%">Minimum Salary</th>
+                        <th style="width:34%">Maximum Salary</th>
+                    </tr>
+                </thead>
+                <tbody>
+                                        <tr class="odd">
+                                                        <td class="check"><input type="checkbox" class="checkboxCurr" name="delCurrencies[]" value="COP"></td>
+                            <td><a href="#" class="editLink">Colombian Peso</a></td>
+                                                        <td class="">2,000.00</td>
+                            <td class="">3,000.00</td>
+                        </tr>
+                                </tbody>
+            </table>
+            
+        </form>
+        
+    </div>
+    
+</div>
+
+
+<script type="text/javascript">
+    var currencies = [{"id":"AFN","name":"AFN - Afghanistan Afghani"},{"id":"ALL","name":"ALL - Albanian Lek"},{"id":"DZD","name":"DZD - Algerian Dinar"},{"id":"AOR","name":"AOR - Angolan New Kwanza"},{"id":"ARP","name":"ARP - Argentina Pesos"},{"id":"ARS","name":"ARS - Argentine Peso"},{"id":"AWG","name":"AWG - Aruban Florin"},{"id":"AUD","name":"AUD - Australian Dollar"},{"id":"BSD","name":"BSD - Bahamian Dollar"},{"id":"BHD","name":"BHD - Bahraini Dinar"},{"id":"BDT","name":"BDT - Bangladeshi Taka"},{"id":"BBD","name":"BBD - Barbados Dollar"},{"id":"BZD","name":"BZD - Belize Dollar"},{"id":"BMD","name":"BMD - Bermudian Dollar"},{"id":"BTN","name":"BTN - Bhutan Ngultrum"},{"id":"BOB","name":"BOB - Bolivian Boliviano"},{"id":"BWP","name":"BWP - Botswana Pula"},{"id":"BRL","name":"BRL - Brazilian Real"},{"id":"BND","name":"BND - Brunei Dollar"},{"id":"BGL","name":"BGL - Bulgarian Lev"},{"id":"BIF","name":"BIF - Burundi Franc"},{"id":"CAD","name":"CAD - Canadian Dollar"},{"id":"CVE","name":"CVE - Cape Verde Escudo"},{"id":"KYD","name":"KYD - Cayman Islands Dollar"},{"id":"XOF","name":"XOF - CFA Franc BCEAO"},{"id":"XAF","name":"XAF - CFA Franc BEAC"},{"id":"XPF","name":"XPF - CFP Franc"},{"id":"CLP","name":"CLP - Chilean Peso"},{"id":"CNY","name":"CNY - Chinese Yuan Renminbi"},{"id":"COP","name":"COP - Colombian Peso"},{"id":"KMF","name":"KMF - Comoros Franc"},{"id":"CRC","name":"CRC - Costa Rican Colon"},{"id":"HRK","name":"HRK - Croatian Kuna"},{"id":"CUP","name":"CUP - Cuban Peso"},{"id":"CYP","name":"CYP - Cyprus Pound"},{"id":"CZK","name":"CZK - Czech Koruna"},{"id":"DKK","name":"DKK - Danish Krona"},{"id":"DJF","name":"DJF - Djibouti Franc"},{"id":"DOP","name":"DOP - Dominican Peso"},{"id":"XCD","name":"XCD - Eastern Caribbean Dollars"},{"id":"ECS","name":"ECS - Ecuador Sucre"},{"id":"EGP","name":"EGP - Egyptian Pound"},{"id":"SVC","name":"SVC - El Salvador Colon"},{"id":"EEK","name":"EEK - Estonian Krona"},{"id":"ETB","name":"ETB - Ethiopian Birr"},{"id":"EUR","name":"EUR - Euro"},{"id":"FKP","name":"FKP - Falkland Islands Pound"},{"id":"FJD","name":"FJD - Fiji Dollar"},{"id":"GMD","name":"GMD - Gambian Dalasi"},{"id":"GHC","name":"GHC - Ghanaian Cedi"},{"id":"GIP","name":"GIP - Gibraltar Pound"},{"id":"XAU","name":"XAU - Gold (oz.)"},{"id":"GTQ","name":"GTQ - Guatemalan Quetzal"},{"id":"GNF","name":"GNF - Guinea Franc"},{"id":"GYD","name":"GYD - Guyanan Dollar"},{"id":"HTG","name":"HTG - Haitian Gourde"},{"id":"HNL","name":"HNL - Honduran Lempira"},{"id":"HKD","name":"HKD - Hong Kong Dollar"},{"id":"HUF","name":"HUF - Hungarian Forint"},{"id":"ISK","name":"ISK - Iceland Krona"},{"id":"XDR","name":"XDR - IMF Special Drawing Right"},{"id":"INR","name":"INR - Indian Rupee"},{"id":"IDR","name":"IDR - Indonesian Rupiah"},{"id":"IRR","name":"IRR - Iranian Rial"},{"id":"IQD","name":"IQD - Iraqi Dinar"},{"id":"ILS","name":"ILS - Israeli New Shekel"},{"id":"JMD","name":"JMD - Jamaican Dollar"},{"id":"JPY","name":"JPY - Japanese Yen"},{"id":"JOD","name":"JOD - Jordanian Dinar"},{"id":"KHR","name":"KHR - Kampuchean Riel"},{"id":"KZT","name":"KZT - Kazakhstan Tenge"},{"id":"KES","name":"KES - Kenyan Shilling"},{"id":"KRW","name":"KRW - Korean Won"},{"id":"KWD","name":"KWD - Kuwaiti Dinar"},{"id":"LAK","name":"LAK - Lao Kip"},{"id":"LVL","name":"LVL - Latvian Lats"},{"id":"LBP","name":"LBP - Lebanese Pound"},{"id":"LSL","name":"LSL - Lesotho Loti"},{"id":"LRD","name":"LRD - Liberian Dollar"},{"id":"LYD","name":"LYD - Libyan Dinar"},{"id":"LTL","name":"LTL - Lithuanian Litas"},{"id":"MOP","name":"MOP - Macau Pataca"},{"id":"MGF","name":"MGF - Malagasy Franc"},{"id":"MWK","name":"MWK - Malawi Kwacha"},{"id":"MYR","name":"MYR - Malaysian Ringgit"},{"id":"MVR","name":"MVR - Maldive Rufiyaa"},{"id":"MTL","name":"MTL - Maltese Lira"},{"id":"MRO","name":"MRO - Mauritanian Ouguiya"},{"id":"MUR","name":"MUR - Mauritius Rupee"},{"id":"MXN","name":"MXN - Mexican New Peso"},{"id":"MXP","name":"MXP - Mexican Peso"},{"id":"MNT","name":"MNT - Mongolian Tugrik"},{"id":"MAD","name":"MAD - Moroccan Dirham"},{"id":"MZM","name":"MZM - Mozambique Metical"},{"id":"MMK","name":"MMK - Myanmar Kyat"},{"id":"NAD","name":"NAD - Namibia Dollar"},{"id":"NPR","name":"NPR - Nepalese Rupee"},{"id":"ZRN","name":"ZRN - New Zaire"},{"id":"NZD","name":"NZD - New Zealand Dollar"},{"id":"NIO","name":"NIO - Nicaraguan Cordoba Oro"},{"id":"NGN","name":"NGN - Nigerian Naira"},{"id":"ANG","name":"ANG - NL Antillian Guilder"},{"id":"KPW","name":"KPW - North Korean Won"},{"id":"NOK","name":"NOK - Norwegian Krona"},{"id":"OMR","name":"OMR - Omani Rial"},{"id":"PKR","name":"PKR - Pakistan Rupee"},{"id":"XPD","name":"XPD - Palladium (oz.)"},{"id":"PAB","name":"PAB - Panamanian Balboa"},{"id":"PGK","name":"PGK - Papua New Guinea Kina"},{"id":"PYG","name":"PYG - Paraguay Guarani"},{"id":"PEN","name":"PEN - Peruvian Nuevo Sol"},{"id":"PHP","name":"PHP - Philippine Peso"},{"id":"XPT","name":"XPT - Platinum (oz.)"},{"id":"PLN","name":"PLN - Polish Zloty"},{"id":"GBP","name":"GBP - Pound Sterling"},{"id":"QAR","name":"QAR - Qatari Rial"},{"id":"ROL","name":"ROL - Romanian Leu"},{"id":"RUR","name":"RUR - Russia Rubles"},{"id":"RUB","name":"RUB - Russian Rouble"},{"id":"WST","name":"WST - Samoan Tala"},{"id":"STD","name":"STD - Sao Tome\/Principe Dobra"},{"id":"SAR","name":"SAR - Saudi Arabia Riyal"},{"id":"SCR","name":"SCR - Seychelles Rupee"},{"id":"SLL","name":"SLL - Sierra Leone Leone"},{"id":"XAG","name":"XAG - Silver (oz.)"},{"id":"SGD","name":"SGD - Singapore Dollar"},{"id":"SKK","name":"SKK - Slovak Koruna"},{"id":"SBD","name":"SBD - Solomon Islands Dollar"},{"id":"SOS","name":"SOS - Somali Shilling"},{"id":"ZAR","name":"ZAR - South African Rand"},{"id":"LKR","name":"LKR - Sri Lanka Rupee"},{"id":"SHP","name":"SHP - St. Helena Pound"},{"id":"SDD","name":"SDD - Sudanese Dinar"},{"id":"SDP","name":"SDP - Sudanese Pound"},{"id":"SRD","name":"SRD - Surinamese Dollar"},{"id":"SZL","name":"SZL - Swaziland Lilangeni"},{"id":"SEK","name":"SEK - Swedish Krona"},{"id":"CHF","name":"CHF - Swiss Franc"},{"id":"SYP","name":"SYP - Syrian Pound"},{"id":"TWD","name":"TWD - Taiwan Dollar"},{"id":"TZS","name":"TZS - Tanzanian Shilling"},{"id":"THB","name":"THB - Thai Baht"},{"id":"TOP","name":"TOP - Tongan Pa'anga"},{"id":"TTD","name":"TTD - Trinidad\/Tobago Dollar"},{"id":"TND","name":"TND - Tunisian Dinar"},{"id":"TRL","name":"TRL - Turkish Lira"},{"id":"UGX","name":"UGX - Uganda Shilling"},{"id":"UAH","name":"UAH - Ukraine Hryvnia"},{"id":"USD","name":"USD - United States Dollar"},{"id":"UYP","name":"UYP - Uruguayan Peso"},{"id":"AED","name":"AED - Utd. Arab Emir. Dirham"},{"id":"VUV","name":"VUV - Vanuatu Vatu"},{"id":"VEB","name":"VEB - Venezuelan Bolivar"},{"id":"VND","name":"VND - Vietnamese Dong"},{"id":"YER","name":"YER - Yemeni Riyal"},{"id":"YUN","name":"YUN - Yugoslav Dinar"},{"id":"YUM","name":"YUM - Yugoslavian Dinar"},{"id":"ZMK","name":"ZMK - Zambian Kwacha"},{"id":"ZWD","name":"ZWD - Zimbabwe Dollar"}] ;
+    var currencyList = eval(currencies);
+    var payGrades = [{"id":"1","name":"Grade 1"},{"id":"2","name":"Grade 2"},{"id":"3","name":"Grade 3"},{"id":"4","name":"Grade 4"},{"id":"5","name":"Grade 5"},{"id":"6","name":"Grade 6"}] ;
+    var payGradeList = eval(payGrades);
+    var assignedCurrencies = [{"id":"COP","name":"COP - Colombian Peso"}];
+    var assignedCurrencyList = eval(assignedCurrencies);
+    var lang_NameRequired = 'Required';
+    var lang_exceed50Charactors = 'Should be less than 50 characters';
+    var lang_exceed12Charactors = 'Should be less than 10 characters';
+    var payGradeId = "1";
+    var lang_edit = "Edit";
+    var lang_save = "Save";
+    var lang_currencyRequired = 'Required';
+    var lang_salaryShouldBeNumeric = 'Should be a positive number';
+    var lang_validCurrency = 'Invalid';
+    var lang_currencyAlreadyExist = 'Already exists';
+    var lang_validSalaryRange  = 'Should be higher than Minimum Salary';
+    var lang_addCurrency  = "Add Currency";
+    var lang_editCurrency  = "Edit Currency";
+    var lang_assignedCurrency  = "Assigned Currencies";
+    var lang_uniquePayGradeName  = 'Already exists';
+    var viewPayGradesUrl = "/index.php/admin/viewPayGrades";
+    var getCurrencyDetailsUrl = "/index.php/admin/getCurrencyDetailsJson";
+    var lang_typeHint = "Type for hints...";
+    var lang_negativeAmount = "Should be a positive number";
+    var lang_tooLargeAmount = 'Should be less than 1000,000,000';
+</script>
+
+            </div> <!-- content -->
+
+        </div> <!-- wrapper -->
+
+        <div id="footer">
+            OrangeHRM 4.8<br>
+© 2005 - 2021 <a href="http://www.orangehrm.com" target="_blank">OrangeHRM, Inc</a>. All rights reserved.
+        </div> <!-- footer -->
+
+
+ 
+        <script type="text/javascript">
+
+            $(document).ready(function() {                            
+                
+                /* Enabling tooltips */
+                $(".tiptip").tipTip();
+
+                /* Toggling header menus */
+                $("#welcome").click(function () {
+                    $("#welcome-menu").slideToggle("fast");
+                    $(this).toggleClass("activated-welcome");
+                    return false;
+                });
+                
+                $("#help").click(function () {
+                    $("#help-menu").slideToggle("fast");
+                    $(this).toggleClass("activated-help");
+                    return false;
+                });
+                
+                $('.panelTrigger').outside('click', function() {
+                    $('.panelContainer').stop(true, true).slideUp('fast');
+                });                
+
+                /* 
+                 * Button hovering effects 
+                 * Note: we are not using pure css using :hover because :hover applies to even disabled elements.
+                 * The pseudo class :enabled is not supported in IE < 9.
+                 */                
+                $(document).on({
+                    mouseenter: function () {
+                        $(this).addClass('hover');                        
+                    },
+                    mouseleave: function () {
+                        $(this).removeClass('hover');                        
+                    }
+
+                }, 'input[type=button], input[type=submit], input[type=reset]'); 
+  
+                /* Fading out main messages */
+                $(document).on({
+                    click: function() {
+                        $(this).parent('div.message').fadeOut("slow");
+                    }
+                }, '.message a.messageCloseButton');                
+
+                /* Toggling search form: Begins */
+                //$(".toggableForm .inner").hide(); // Disabling this makes search forms to be expanded by default.
+
+                $(".toggableForm .toggle").click(function () {
+                    $(".toggableForm .inner").slideToggle('slow', function() {
+                        if($(this).is(':hidden')) {
+                            $('.toggableForm .tiptip').tipTip({content:'Expand for Options'});
+                        } else {
+                            $('.toggableForm .tiptip').tipTip({content:'Hide Options'});
+                        }
+                    });
+                    $(this).toggleClass("activated");
+                });
+                /* Toggling search form: Ends */
+
+                /* Enabling/disabling form fields: Begin */
+                
+                $('form.clickToEditForm input, form.clickToEditForm select, form.clickToEditForm textarea').attr('disabled', 'disabled');
+                $('form.clickToEditForm input.calendar').datepicker('disable');
+                $('form.clickToEditForm input[type=button]').removeAttr('disabled');
+                
+                $('form input.editButton').click(function(){
+                    $('form.clickToEditForm input, form.clickToEditForm select, form.clickToEditForm textarea').removeAttr('disabled');
+                    $('form.clickToEditForm input.calendar').datepicker('enable');
+                });
+                
+                /* Enabling/disabling form fields: End */
+                
+            });
+            
+        </script>        
+
+    
+    
+
+
+<div id="tiptip_holder" style="max-width:200px;"><div id="tiptip_arrow"><div id="tiptip_arrow_inner"></div></div><div id="tiptip_content"></div></div></body></html>

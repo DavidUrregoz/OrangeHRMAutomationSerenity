@@ -1,0 +1,257 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!--[if IE 7]>
+<!--<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">-->
+
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/all.min.css">
+<link rel="stylesheet" type="text/css" href="fontawesome-free-5.7.2-web/css/v4-shims.min.css">
+
+<!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><link rel="stylesheet" type="text/css" href="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.css">
+<link rel="stylesheet" type="text/css" href="chartist/dist/chartist.min.css">
+<script src="chartist/dist/chartist.min.js"></script>
+<script src="chartist/chartist-plugin-tooltip/dist/chartist-plugin-tooltip.min.js"></script>
+<!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.10.20/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.10.20/datatables.min.js"></script>
+<script type="text/javascript" src="datatables/1.10.20/time-elapsed-dhms.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="datatables/1.10.20/datatables.bootstrap4.min.js"></script>
+<link type="text/css" href="datatables/1.10.20/datatables.bootstrap4.min.css" rel="stylesheet" />
+
+<script>
+    jQuery.fn.dataTable.ext.type.order['time-elapsed-dhms-pre'] = function(data) {
+
+        var matches = data.match(/^(\d+(?:\.\d+)?)\s*([a-z]+)/i);
+        var multipliers = {
+            ms: 1,
+            s: 1000,
+            m: 60000,
+            h: 3600000,
+            d: 86400000
+        };
+
+        if (matches) {
+            var multiplier = multipliers[matches[2].toLowerCase()];
+            return parseFloat(matches[1]) * multiplier;
+        } else {
+            return -1;
+        };
+    };
+</script>
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">
+                <span class="projecttitle"></span>
+                <span class="projectsubtitle"></span>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="414309e78d8e882aef1803098ca154f52739e9553bce3db5a9393b65285ec727.html">Como Empleado Administrativo</a></span>
+                > <span class="truncate-60"><a
+                    href="24b36a51ce0a21bf9deb96b216e77fa27e34fa9a7123ee4d4aa4a5420d0362fc.html">busqueda por nombre de empleado. </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="7ea0a5e2d679b9deeda9910ae4a9bcd3a281e0d908303a9e16e486103e98880c.html"><i class="fa fa-comments-o"></i> Capabilities</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 24-10-2021 13:10</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Como Empleado Administrativo </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                necesito filtrar la información de los empleados en la plataforma de  orangeHRM<br />
+con el fin de reducir el tiempo de búsqueda y aumentar la efectividad.
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><a href='##beforetable'><i class='fa fa-check-circle-o success-icon fa-2x' title='SUCCESS'></i></a></span>
+                            <span class="test-case-title">
+                                <span class="success-color">busqueda por nombre de empleado.
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="0b08692dd462ad9497e1507125e20b25df9bf4a9464a8e94d65dc7d4418328c9.png" title=" Given que el empleado administrativo se encuentra correctamente autenticado en la aplicacion de orangeHRM" width="1920"/>
+                <img src="0b08692dd462ad9497e1507125e20b25df9bf4a9464a8e94d65dc7d4418328c9.png" title=" Admin open landing page" width="1920"/>
+                <img src="0b08692dd462ad9497e1507125e20b25df9bf4a9464a8e94d65dc7d4418328c9.png" title=" Admin opens the Landing page" width="1920"/>
+                <img src="8a7b7d7ab462fcfa0649ad2cee720f81a9cdb8ccdfb7097e6527ea1d14e25aed.png" title=" Admin open landing page" width="1920"/>
+                <img src="8a7b7d7ab462fcfa0649ad2cee720f81a9cdb8ccdfb7097e6527ea1d14e25aed.png" title=" Admin opens the Landing page (completed)" width="1920"/>
+                <img src="8a7b7d7ab462fcfa0649ad2cee720f81a9cdb8ccdfb7097e6527ea1d14e25aed.png" title=" Admin fill login" width="1920"/>
+                <img src="8a7b7d7ab462fcfa0649ad2cee720f81a9cdb8ccdfb7097e6527ea1d14e25aed.png" title=" Admin enters 'Admin' into name" width="1920"/>
+                <img src="68f46214cc697bc9c8fa07415dd9548ae7b7974336c14b5ac1a1a39962f71298.png" title=" Admin enters 'Admin' into name (completed)" width="1920"/>
+                <img src="68f46214cc697bc9c8fa07415dd9548ae7b7974336c14b5ac1a1a39962f71298.png" title=" Admin enters 'admin123' into password" width="1920"/>
+                <img src="461dd0ff62e2d36799da1ba75aa731a32da73040bf573f57453d820807bb8d30.png" title=" Admin enters 'admin123' into password (completed)" width="1920"/>
+                <img src="461dd0ff62e2d36799da1ba75aa731a32da73040bf573f57453d820807bb8d30.png" title=" Admin clicks on botonLogin" width="1920"/>
+                <img src="88f810cfc49a514e652d8f30afd9fd444fad9f77805f4277c0d51eef1d55446f.png" title=" Admin clicks on botonLogin (completed)" width="1920"/>
+                <img src="88f810cfc49a514e652d8f30afd9fd444fad9f77805f4277c0d51eef1d55446f.png" title=" Admin fill login (completed)" width="1920"/>
+                <img src="88f810cfc49a514e652d8f30afd9fd444fad9f77805f4277c0d51eef1d55446f.png" title=" Given que el empleado administrativo se encuentra correctamente autenticado en la aplicacion de orangeHRM (completed)" width="1920"/>
+                <img src="bb258c2a2a25170f7944e07ce9fdcbd6e833225934d363ea82c49907c11622f1.png" title=" When el empleado proceda a hacer una busqueda en la sesion de Admin  por medio del Employee name" width="1920"/>
+                <img src="bb258c2a2a25170f7944e07ce9fdcbd6e833225934d363ea82c49907c11622f1.png" title=" Admin search empoyee" width="1920"/>
+                <img src="bb258c2a2a25170f7944e07ce9fdcbd6e833225934d363ea82c49907c11622f1.png" title=" Admin clicks on adminMenu" width="1920"/>
+                <img src="699bcb591da500ccef0cd594675eeae662ef788b11de8e10a3271ff67a83ca52.png" title=" Admin clicks on adminMenu (completed)" width="1920"/>
+                <img src="699bcb591da500ccef0cd594675eeae662ef788b11de8e10a3271ff67a83ca52.png" title=" Admin enters 'Aaliyah Haq' into searchOption" width="1920"/>
+                <img src="023b5451d78cb3924d42d27a7c98e89e85b410d6c9115f8024fce0596317db4a.png" title=" Admin enters 'Aaliyah Haq' into searchOption (completed)" width="1920"/>
+                <img src="023b5451d78cb3924d42d27a7c98e89e85b410d6c9115f8024fce0596317db4a.png" title=" Admin types 'TAB' in searchOption" width="1920"/>
+                <img src="023b5451d78cb3924d42d27a7c98e89e85b410d6c9115f8024fce0596317db4a.png" title=" Admin types 'TAB' in searchOption (completed)" width="1920"/>
+                <img src="a82e796ef2ac31d7f3b55d5d7859e73269e2efa73bcc74924ffc1b8da95f8306.png" title=" Admin clicks on searchButon" width="1920"/>
+                <img src="36f3d9d7235d560055e2d625074e6c560f8f681e40f0f470a699f327afb42904.png" title=" Admin clicks on searchButon (completed)" width="1920"/>
+                <img src="36f3d9d7235d560055e2d625074e6c560f8f681e40f0f470a699f327afb42904.png" title=" Admin search empoyee (completed)" width="1920"/>
+                <img src="36f3d9d7235d560055e2d625074e6c560f8f681e40f0f470a699f327afb42904.png" title=" When el empleado proceda a hacer una busqueda en la sesion de Admin  por medio del Employee name (completed)" width="1920"/>
+                <img src="36f3d9d7235d560055e2d625074e6c560f8f681e40f0f470a699f327afb42904.png" title=" Then el sistema debe retornar una lista con la informacion filtrada." width="1920"/>
+                <img src="36f3d9d7235d560055e2d625074e6c560f8f681e40f0f470a699f327afb42904.png" title=" Then assert search empoyee should be (true)" width="1920"/>
+                <img src="36f3d9d7235d560055e2d625074e6c560f8f681e40f0f470a699f327afb42904.png" title=" Then el sistema debe retornar una lista con la informacion filtrada. (completed): <span class='success-color'>SUCCESS</span>" width="1920"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 2.2.9</span>
+</div>
+</body>
+</html>
